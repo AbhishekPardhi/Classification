@@ -1,6 +1,6 @@
 # Classification
 Classification, Data-preprocessing, Data visualization, Model evaluation\
-This is an implementation of a classifier to classify emails as spam or non-spam. Kaggle dataset Spam or Not Spam Dataset has been used for this task.\
+This is an application of a classifier to classify emails as spam or non-spam. Kaggle dataset Spam or Not Spam Dataset has been used for this task.\
 This code is written by ```Abhishek Pardhi```\
 Instructions to run this code:
 ```
